@@ -1,6 +1,6 @@
 [submodule "libdparse"]
 	path = libdparse
-	url = https://github.com/Hackerpilot/libdparse.git
+	url = https://github.com/skl131313/libdparse.git
 	branch = master
 [submodule "inifiled"]
 	path = inifiled
